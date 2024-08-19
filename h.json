@@ -445,7 +445,7 @@
     {
         "enabled": false,
         "ingameOnly": true,
-        "keybind": 7,
+        "keybind": 88,
         "name": "Net Skip",
         "settings": [
             {
@@ -839,7 +839,7 @@
             {
                 "name": "Aura Bypass",
                 "type": 0,
-                "value": 1
+                "value": 0
             },
             {
                 "name": "Keep Y",
@@ -849,7 +849,7 @@
             {
                 "name": "PlacesPerTick",
                 "type": 1,
-                "value": 1.0
+                "value": 0.800000011920929
             },
             {
                 "name": "Distance",
@@ -955,21 +955,21 @@
     {
         "enabled": false,
         "ingameOnly": true,
-        "keybind": 7,
+        "keybind": 70,
         "name": "Timer",
         "settings": [
             {
                 "name": "Visable in Arraylist",
                 "type": 0,
-                "value": 1
+                "value": 0
             },
             {
                 "name": "Timer",
                 "type": 1,
-                "value": 40.0
+                "value": 21.567567825317383
             }
         ],
-        "visible": true
+        "visible": false
     },
     {
         "enabled": false,
@@ -1026,7 +1026,7 @@
     {
         "enabled": false,
         "ingameOnly": true,
-        "keybind": 7,
+        "keybind": 88,
         "name": "Fly",
         "settings": [
             {
@@ -1037,22 +1037,22 @@
             {
                 "name": "Mode",
                 "type": 2,
-                "value": 0
+                "value": 1
             },
             {
                 "name": "Speed",
                 "type": 1,
-                "value": 0.6000000238418579
+                "value": 2.0
             },
             {
                 "name": "Glide",
                 "type": 1,
-                "value": 0.0
+                "value": -1.0
             },
             {
                 "name": "Friction",
                 "type": 1,
-                "value": 2.299999952316284
+                "value": 0.0
             },
             {
                 "name": "Blink",
@@ -1062,12 +1062,12 @@
             {
                 "name": "Timer Value",
                 "type": 1,
-                "value": 5.0
+                "value": 20.829729080200195
             },
             {
                 "name": "Boost Value",
                 "type": 1,
-                "value": 0.550000011920929
+                "value": -0.20000000298023224
             }
         ],
         "visible": true
@@ -1263,7 +1263,7 @@
             {
                 "name": "Speed",
                 "type": 1,
-                "value": 3.991891860961914
+                "value": 3.797297239303589
             },
             {
                 "name": "SwiftSpeed",
@@ -2283,7 +2283,7 @@
         "visible": true
     },
     {
-        "enabled": false,
+        "enabled": true,
         "ingameOnly": true,
         "keybind": 7,
         "name": "NoFire",
@@ -2291,10 +2291,10 @@
             {
                 "name": "Visable in Arraylist",
                 "type": 0,
-                "value": 1
+                "value": 0
             }
         ],
-        "visible": true
+        "visible": false
     },
     {
         "enabled": true,
