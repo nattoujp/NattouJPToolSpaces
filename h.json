@@ -190,7 +190,7 @@
                 },
                 {
                     "name": "Timer Boost Value",
-                    "numberValue": 14.309999465942383,
+                    "numberValue": 18.010000228881836,
                     "type": 1
                 }
             ]
@@ -931,7 +931,7 @@
                 },
                 {
                     "name": "Places",
-                    "numberValue": 1.0,
+                    "numberValue": 3.0799999237060547,
                     "type": 1
                 },
                 {
@@ -981,7 +981,7 @@
                 },
                 {
                     "name": "Tower Speed",
-                    "numberValue": 8.5,
+                    "numberValue": 5.029999732971191,
                     "type": 1
                 },
                 {
@@ -1241,7 +1241,7 @@
                     "type": 0
                 },
                 {
-                    "enumValue": 0,
+                    "enumValue": 1,
                     "name": "Mode",
                     "type": 2
                 },
