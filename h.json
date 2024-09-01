@@ -475,6 +475,11 @@
                     "boolValue": false,
                     "name": "Blink",
                     "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Test",
+                    "type": 0
                 }
             ]
         },
@@ -773,12 +778,12 @@
                     "type": 1
                 },
                 {
-                    "boolValue": false,
+                    "boolValue": true,
                     "name": "Queue Redstone",
                     "type": 0
                 },
                 {
-                    "boolValue": false,
+                    "boolValue": true,
                     "name": "Steal",
                     "type": 0
                 },
@@ -788,7 +793,7 @@
                     "type": 2
                 },
                 {
-                    "boolValue": false,
+                    "boolValue": true,
                     "name": "Always Steal",
                     "type": 0
                 },
@@ -813,7 +818,7 @@
                     "type": 1
                 },
                 {
-                    "boolValue": false,
+                    "boolValue": true,
                     "name": "Anti Confuse",
                     "type": 0
                 },
@@ -829,6 +834,16 @@
                 },
                 {
                     "boolValue": false,
+                    "name": "Advanced Block",
+                    "type": 0
+                },
+                {
+                    "name": "Search Range",
+                    "numberValue": 2.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
                     "name": "Anti Cover",
                     "type": 0
                 },
@@ -889,7 +904,7 @@
                 },
                 {
                     "boolValue": false,
-                    "name": "Cover Notify",
+                    "name": "Block Notify",
                     "type": 0
                 },
                 {
@@ -913,7 +928,7 @@
                     "type": 0
                 },
                 {
-                    "boolValue": true,
+                    "boolValue": false,
                     "name": "Render Progress Bar",
                     "type": 0
                 }
@@ -1253,6 +1268,68 @@
                 {
                     "boolValue": true,
                     "name": "Hotbar Only",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "AutoKick",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "name": "Range",
+                    "numberValue": 5.0,
+                    "type": 1
+                },
+                {
+                    "name": "Delay",
+                    "numberValue": 1000.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Hotbar Only",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Allow Diagonal",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "OnGround Only",
+                    "type": 0
+                },
+                {
+                    "name": "OnGround Ticks",
+                    "numberValue": 10.0,
+                    "type": 1
+                },
+                {
+                    "name": "Opponent Ping",
+                    "numberValue": 90.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Spam Place",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Debug",
                     "type": 0
                 }
             ]
@@ -1820,6 +1897,89 @@
             ]
         },
         {
+            "enabled": false,
+            "key": 0,
+            "name": "AutoCosmetic",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "name": "UI Delay",
+                    "numberValue": 200.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "AutoAccept",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Accept Party Invites",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Accept Friend Requests",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "PartySpammer",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Active",
+                    "type": 0
+                },
+                {
+                    "name": "Delay",
+                    "numberValue": 1000.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "IRC",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Show Names in Chat",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Always Send to IRC",
+                    "type": 0
+                }
+            ]
+        },
+        {
             "enabled": true,
             "key": 0,
             "name": "Watermark",
@@ -2271,6 +2431,11 @@
                     "boolValue": true,
                     "name": "Lapis",
                     "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Portal",
+                    "type": 0
                 }
             ]
         },
@@ -2453,6 +2618,11 @@
                     "name": "Font Size",
                     "numberValue": 20.0,
                     "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Health Calculation",
+                    "type": 0
                 }
             ]
         },
@@ -2536,6 +2706,11 @@
                 {
                     "boolValue": true,
                     "name": "Distance Scaled Font",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Show IRC Users",
                     "type": 0
                 },
                 {
