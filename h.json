@@ -1,0 +1,2786 @@
+{
+    "client": "Solstice",
+    "modules": [
+        {
+            "enabled": false,
+            "key": 82,
+            "name": "Aura",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Attack Mode",
+                    "type": 2
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Rotate Mode",
+                    "type": 2
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Switch Mode",
+                    "type": 2
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Anticheat",
+                    "type": 2
+                },
+                {
+                    "boolValue": true,
+                    "name": "Auto Fire Sword",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Hotbar Only",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Fist Friends",
+                    "type": 0
+                },
+                {
+                    "name": "Range",
+                    "numberValue": 4.569999694824219,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Randomize APS",
+                    "type": 0
+                },
+                {
+                    "name": "APS",
+                    "numberValue": 10.0,
+                    "type": 1
+                },
+                {
+                    "name": "APS Min",
+                    "numberValue": 8.059999465942383,
+                    "type": 1
+                },
+                {
+                    "name": "APS Max",
+                    "numberValue": 11.1899995803833,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Throw Projectiles",
+                    "type": 0
+                },
+                {
+                    "name": "Throw Delay",
+                    "numberValue": 1.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Auto Bow",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Swing",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Swing Delay",
+                    "type": 0
+                },
+                {
+                    "name": "Swing Delay Value",
+                    "numberValue": 4.5,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Strafe",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 88,
+            "name": "Fly",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 3,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "boolValue": true,
+                    "name": "Apply Glide Flags",
+                    "type": 0
+                },
+                {
+                    "name": "Speed",
+                    "numberValue": 8.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Speed Friction",
+                    "type": 0
+                },
+                {
+                    "name": "Friction",
+                    "numberValue": 0.9750000238418579,
+                    "type": 1
+                },
+                {
+                    "name": "Height Loss",
+                    "numberValue": 0.5,
+                    "type": 1
+                },
+                {
+                    "name": "Jump Delay",
+                    "numberValue": 0.20000000298023224,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Damage Only",
+                    "type": 0
+                },
+                {
+                    "name": "Fly Time",
+                    "numberValue": 1.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Reset On Ground",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Reset On Disable",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Debug",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Timer Boost",
+                    "type": 0
+                },
+                {
+                    "name": "Timer Boost Value",
+                    "numberValue": 18.010000228881836,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "Velocity",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "name": "Horizontal",
+                    "numberValue": 0.0,
+                    "type": 1
+                },
+                {
+                    "name": "Vertical",
+                    "numberValue": 0.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "NoSlowdown",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "AntiImmobile",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Mode",
+                    "type": 2
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "Sprint",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 70,
+            "name": "Speed",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Type",
+                    "type": 2
+                },
+                {
+                    "boolValue": false,
+                    "name": "Swiftness",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Swiftness Hotbar",
+                    "type": 0
+                },
+                {
+                    "name": "Swiftness Speed",
+                    "numberValue": 0.8299999833106995,
+                    "type": 1
+                },
+                {
+                    "name": "Swiftness Friction",
+                    "numberValue": 0.8299999833106995,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Hold Space",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Damage Boost",
+                    "type": 0
+                },
+                {
+                    "name": "Damage Boost Speed",
+                    "numberValue": 8.460000038146973,
+                    "type": 1
+                },
+                {
+                    "name": "Damage Boost Slowdown",
+                    "numberValue": 0.8299999833106995,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Damage Timer",
+                    "type": 0
+                },
+                {
+                    "name": "Damage Timer Speed",
+                    "numberValue": 33.20000076293945,
+                    "type": 1
+                },
+                {
+                    "name": "Speed",
+                    "numberValue": 8.289999961853027,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Strafe Only",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Custom Strafe Speed",
+                    "type": 0
+                },
+                {
+                    "name": "Strafe Speed",
+                    "numberValue": 8.880000114440918,
+                    "type": 1
+                },
+                {
+                    "name": "Friction",
+                    "numberValue": 0.8299999833106995,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Timer Boost",
+                    "type": 0
+                },
+                {
+                    "name": "Timer Speed",
+                    "numberValue": 33.20000076293945,
+                    "type": 1
+                },
+                {
+                    "enumValue": 2,
+                    "name": "Fast Fall",
+                    "type": 2
+                },
+                {
+                    "name": "Fall Ticks",
+                    "numberValue": 17.0,
+                    "type": 1
+                },
+                {
+                    "name": "Fall Speed",
+                    "numberValue": 8.289999961853027,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Fast Fall 2",
+                    "type": 0
+                },
+                {
+                    "name": "Fall Ticks 2",
+                    "numberValue": 17.0,
+                    "type": 1
+                },
+                {
+                    "name": "Fall Speed 2",
+                    "numberValue": 8.289999961853027,
+                    "type": 1
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Jump Type",
+                    "type": 2
+                },
+                {
+                    "name": "Jump Height",
+                    "numberValue": 0.8299999833106995,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Apply Netskip",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "InventoryMove",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "SafeWalk",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "NoJumpDelay",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "Phase",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "name": "Speed",
+                    "numberValue": 8.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Blink",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Test",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "FastStop",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "Step",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "name": "Step Height",
+                    "numberValue": 0.5,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "LongJump",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "name": "Speed",
+                    "numberValue": 1.0,
+                    "type": 1
+                },
+                {
+                    "name": "Height",
+                    "numberValue": 0.41999998688697815,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Timer Boost",
+                    "type": 0
+                },
+                {
+                    "name": "Timer",
+                    "numberValue": 28.299999237060547,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Apply Jump Flags",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Disable Modules",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "Spider",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "name": "Speed",
+                    "numberValue": 2.5,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 70,
+            "name": "Timer",
+            "settings": [
+                {
+                    "boolValue": false,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "name": "Speed",
+                    "numberValue": 22.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "ChestStealer",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "boolValue": false,
+                    "name": "Randomize Delay",
+                    "type": 0
+                },
+                {
+                    "name": "Delay",
+                    "numberValue": 50.0,
+                    "type": 1
+                },
+                {
+                    "name": "Randomize Min",
+                    "numberValue": 50.0,
+                    "type": 1
+                },
+                {
+                    "name": "Randomize Max",
+                    "numberValue": 100.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Ignore Useless",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "InvManager",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "name": "Delay",
+                    "numberValue": 50.0,
+                    "type": 1
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Management",
+                    "type": 2
+                },
+                {
+                    "boolValue": true,
+                    "name": "Preferred Slots",
+                    "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Sword Slot",
+                    "type": 2
+                },
+                {
+                    "enumValue": 2,
+                    "name": "Pickaxe Slot",
+                    "type": 2
+                },
+                {
+                    "enumValue": 3,
+                    "name": "Axe Slot",
+                    "type": 2
+                },
+                {
+                    "enumValue": 4,
+                    "name": "Shovel Slot",
+                    "type": 2
+                },
+                {
+                    "enumValue": 5,
+                    "name": "Fire Sword Slot",
+                    "type": 2
+                },
+                {
+                    "enumValue": 6,
+                    "name": "Blocks Slot",
+                    "type": 2
+                },
+                {
+                    "boolValue": false,
+                    "name": "Drop Extra Bows",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Ignore Fire Sword",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 86,
+            "name": "Regen",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Calc Mode",
+                    "type": 2
+                },
+                {
+                    "name": "Off Ground Speed",
+                    "numberValue": 0.5,
+                    "type": 1
+                },
+                {
+                    "name": "Range",
+                    "numberValue": 8.069999694824219,
+                    "type": 1
+                },
+                {
+                    "name": "Destroy Speed",
+                    "numberValue": 0.7999999523162842,
+                    "type": 1
+                },
+                {
+                    "name": "Other Destroy Speed",
+                    "numberValue": 0.7999999523162842,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Old Calculation",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Swing",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Hotbar Only",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Uncover",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Uncover Mode",
+                    "type": 2
+                },
+                {
+                    "name": "Uncover Range",
+                    "numberValue": 3.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Queue Redstone",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Steal",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Steal Priority",
+                    "type": 2
+                },
+                {
+                    "boolValue": false,
+                    "name": "Always Steal",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Anti Steal",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Confuse",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Confuse Mode",
+                    "type": 2
+                },
+                {
+                    "name": "Confuse Duration",
+                    "numberValue": 3000.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Anti Confuse",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Block Ore",
+                    "type": 0
+                },
+                {
+                    "name": "Block Range",
+                    "numberValue": 5.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Block Uncover",
+                    "type": 0
+                },
+                {
+                    "name": "Search Range",
+                    "numberValue": 2.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Anti Cover",
+                    "type": 0
+                },
+                {
+                    "name": "Compensation",
+                    "numberValue": 1.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Infinite Durability",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Test",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Test2",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Dynamic Destroy Speed",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "OnGround Only",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Nuke",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Always mine",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Debug",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Steal Notify",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Confuse Notify",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Block Notify",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Fast Ore Notify",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Sync Speed Notify",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Priority Notify",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Render Block",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Render Progress Bar",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 67,
+            "name": "Scaffold",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "name": "Places",
+                    "numberValue": 3.0799999237060547,
+                    "type": 1
+                },
+                {
+                    "name": "Range",
+                    "numberValue": 5.0,
+                    "type": 1
+                },
+                {
+                    "name": "Extend",
+                    "numberValue": 3.0,
+                    "type": 1
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Rotate Mode",
+                    "type": 2
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Flick Mode",
+                    "type": 2
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Placement",
+                    "type": 2
+                },
+                {
+                    "enumValue": 2,
+                    "name": "Switch Mode",
+                    "type": 2
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Switch Prio",
+                    "type": 2
+                },
+                {
+                    "boolValue": true,
+                    "name": "Hotbar Only",
+                    "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Tower Mode",
+                    "type": 2
+                },
+                {
+                    "name": "Tower Speed",
+                    "numberValue": 5.029999732971191,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Fall Distance Check",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Allow Movement",
+                    "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "HUD Style",
+                    "type": 2
+                },
+                {
+                    "boolValue": false,
+                    "name": "Flareon V2",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Avoid Underplace",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Fast Clutch",
+                    "type": 0
+                },
+                {
+                    "name": "Clutch Fall Dist",
+                    "numberValue": 3.0,
+                    "type": 1
+                },
+                {
+                    "name": "Clutch Places",
+                    "numberValue": 1.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Lock Y",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Swing",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Test",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "Nuker",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "BlockType",
+                    "type": 2
+                },
+                {
+                    "name": "Range",
+                    "numberValue": 5.0,
+                    "type": 1
+                },
+                {
+                    "name": "Destroy Speed",
+                    "numberValue": 1.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Swing",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Hotbar Only",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Render Block",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Infinite Durability",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Test",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Instant Break",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "OreMiner",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Uncover Mode",
+                    "type": 2
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Calc Mode",
+                    "type": 2
+                },
+                {
+                    "boolValue": false,
+                    "name": "OnGround Only",
+                    "type": 0
+                },
+                {
+                    "name": "Range",
+                    "numberValue": 5.0,
+                    "type": 1
+                },
+                {
+                    "name": "Uncover Range",
+                    "numberValue": 3.0,
+                    "type": 1
+                },
+                {
+                    "name": "Destroy Speed",
+                    "numberValue": 1.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Emerald",
+                    "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Emerald Priority",
+                    "type": 2
+                },
+                {
+                    "boolValue": false,
+                    "name": "Diamond",
+                    "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Diamond Priority",
+                    "type": 2
+                },
+                {
+                    "boolValue": false,
+                    "name": "Gold",
+                    "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Gold Priority",
+                    "type": 2
+                },
+                {
+                    "boolValue": false,
+                    "name": "Iron",
+                    "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Iron Priority",
+                    "type": 2
+                },
+                {
+                    "boolValue": false,
+                    "name": "Coal",
+                    "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Coal Priority",
+                    "type": 2
+                },
+                {
+                    "boolValue": false,
+                    "name": "Redstone",
+                    "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Redstone Priority",
+                    "type": 2
+                },
+                {
+                    "boolValue": false,
+                    "name": "Lapis",
+                    "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Lapis Priority",
+                    "type": 2
+                },
+                {
+                    "boolValue": false,
+                    "name": "Swing",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Hotbar Only",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Infinite Durability",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Render Block",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 71,
+            "name": "AutoBoombox",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "name": "Delay",
+                    "numberValue": 100.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Hotbar Only",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "AutoKick",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "name": "Range",
+                    "numberValue": 5.0,
+                    "type": 1
+                },
+                {
+                    "name": "Delay",
+                    "numberValue": 1000.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Hotbar Only",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Allow Diagonal",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "OnGround Only",
+                    "type": 0
+                },
+                {
+                    "name": "OnGround Ticks",
+                    "numberValue": 10.0,
+                    "type": 1
+                },
+                {
+                    "name": "Opponent Ping",
+                    "numberValue": 90.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Spam Place",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Debug",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "AutoTool",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Hotbar Only",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Fake Spoof",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "MidclickAction",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Throw Pearls",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Hotbar Only",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Add Friend",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Set Nuker Block",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "Derp",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "name": "Speed",
+                    "numberValue": 1.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Head Yaw Desync",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Head Yaw Flip",
+                    "type": 0
+                },
+                {
+                    "name": "Flip Tick",
+                    "numberValue": 20.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "Freecam",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "name": "Speed",
+                    "numberValue": 5.5,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Disable On Lagback",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "NoFall",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Mode",
+                    "type": 2
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "TestModule",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "colorValue": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "name": "Color",
+                    "type": 3
+                },
+                {
+                    "name": "Camera Radius",
+                    "numberValue": 4.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "ToggleSounds",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Sound",
+                    "type": 2
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "PacketLogger",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Incoming",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Outgoing",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "DeviceSpoof",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "KickSounds",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Sound",
+                    "type": 2
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "AutoQueue",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "name": "Queue Delay",
+                    "numberValue": 1.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Show In Chat",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Queue On Game End",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "AntiBot",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "boolValue": true,
+                    "name": "Hitbox Check",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Player Check",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Invisible Check",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Name Check",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "AntiCheatDetector",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "V2 Notify Only",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "Friends",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "NoPacket",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Move Only",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "NoFilter",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "AutoMessage",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "On Vote",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "On Dimension Change",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "Killsults",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "boolValue": false,
+                    "name": "Auto GG",
+                    "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Kill Sound",
+                    "type": 2
+                },
+                {
+                    "name": "Sound Volume",
+                    "numberValue": 1.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Show Notification",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 88,
+            "name": "NetSkip",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "boolValue": false,
+                    "name": "Randomize Ticks",
+                    "type": 0
+                },
+                {
+                    "name": "Ticks",
+                    "numberValue": 20.0,
+                    "type": 1
+                },
+                {
+                    "name": "Ticks Min",
+                    "numberValue": 0.0,
+                    "type": 1
+                },
+                {
+                    "name": "Ticks Max",
+                    "numberValue": 100.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Randomize Delay",
+                    "type": 0
+                },
+                {
+                    "name": "Delay",
+                    "numberValue": 46.0,
+                    "type": 1
+                },
+                {
+                    "name": "Delay Min",
+                    "numberValue": 0.0,
+                    "type": 1
+                },
+                {
+                    "name": "Delay Max",
+                    "numberValue": 100.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Damage Only",
+                    "type": 0
+                },
+                {
+                    "name": "Damage Time",
+                    "numberValue": 0.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "Disabler",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Disabler Type",
+                    "type": 2
+                },
+                {
+                    "boolValue": true,
+                    "name": "Randomize Delay",
+                    "type": 0
+                },
+                {
+                    "name": "Delay",
+                    "numberValue": 10000.0,
+                    "type": 1
+                },
+                {
+                    "name": "Min Delay",
+                    "numberValue": 6000.0,
+                    "type": 1
+                },
+                {
+                    "name": "Max Delay",
+                    "numberValue": 10000.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "AutoReport",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "name": "Delay",
+                    "numberValue": 1.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Queue When Finished",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "StaffAlert",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Staff Only",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Show Notifications",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Save To Database",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "AutoCosmetic",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "name": "UI Delay",
+                    "numberValue": 200.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "AutoAccept",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Accept Party Invites",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Accept Friend Requests",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "PartySpammer",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Active",
+                    "type": 0
+                },
+                {
+                    "name": "Delay",
+                    "numberValue": 1000.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "Spammer",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "name": "Delay",
+                    "numberValue": 1000.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "IRC",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Show Names in Chat",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Always Send to IRC",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "SkinStealer",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "Watermark",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Style",
+                    "type": 2
+                },
+                {
+                    "boolValue": true,
+                    "name": "Glow",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Bold",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 45,
+            "name": "ClickGui",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Style",
+                    "type": 2
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Animation",
+                    "type": 2
+                },
+                {
+                    "name": "Blur Strength",
+                    "numberValue": 9.0,
+                    "type": 1
+                },
+                {
+                    "name": "Ease Speed",
+                    "numberValue": 10.5,
+                    "type": 1
+                },
+                {
+                    "name": "Midclick Rounding",
+                    "numberValue": 1.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "AutoScale",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "name": "Scale",
+                    "numberValue": 2.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "Interface",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 2,
+                    "name": "Naming",
+                    "type": 2
+                },
+                {
+                    "enumValue": 2,
+                    "name": "Theme",
+                    "type": 2
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Font",
+                    "type": 2
+                },
+                {
+                    "name": "Colors",
+                    "numberValue": 3.0,
+                    "type": 1
+                },
+                {
+                    "colorValue": [
+                        0.0,
+                        1.0,
+                        0.9082968235015869,
+                        1.0
+                    ],
+                    "name": "Color 1",
+                    "type": 3
+                },
+                {
+                    "colorValue": [
+                        0.4978165626525879,
+                        1.0,
+                        0.7302682399749756,
+                        1.0
+                    ],
+                    "name": "Color 2",
+                    "type": 3
+                },
+                {
+                    "colorValue": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "name": "Color 3",
+                    "type": 3
+                },
+                {
+                    "colorValue": [
+                        0.0,
+                        1.0,
+                        0.0,
+                        1.0
+                    ],
+                    "name": "Color 4",
+                    "type": 3
+                },
+                {
+                    "colorValue": [
+                        0.0,
+                        0.0,
+                        1.0,
+                        1.0
+                    ],
+                    "name": "Color 5",
+                    "type": 3
+                },
+                {
+                    "colorValue": [
+                        0.545098066329956,
+                        0.0,
+                        1.0,
+                        1.0
+                    ],
+                    "name": "Color 6",
+                    "type": 3
+                },
+                {
+                    "name": "Color Speed",
+                    "numberValue": 8.0,
+                    "type": 1
+                },
+                {
+                    "name": "Saturation",
+                    "numberValue": 1.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Slot Easing",
+                    "type": 0
+                },
+                {
+                    "name": "Easing Speed",
+                    "numberValue": 20.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "Arraylist",
+            "settings": [
+                {
+                    "boolValue": false,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Background",
+                    "type": 2
+                },
+                {
+                    "name": "Opacity",
+                    "numberValue": 0.0,
+                    "type": 1
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Display",
+                    "type": 2
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Visibility",
+                    "type": 2
+                },
+                {
+                    "boolValue": true,
+                    "name": "Render Mode",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Glow",
+                    "type": 0
+                },
+                {
+                    "name": "Glow Strength",
+                    "numberValue": 1.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Bold Text",
+                    "type": 0
+                },
+                {
+                    "name": "Font Size",
+                    "numberValue": 25.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "LevelInfo",
+            "settings": [
+                {
+                    "boolValue": false,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Show FPS",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Show Ping",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Show BPS",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Show XYZ",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "Notifications",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Style",
+                    "type": 2
+                },
+                {
+                    "boolValue": true,
+                    "name": "Show on toggle",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Show on join",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Limit notifications",
+                    "type": 0
+                },
+                {
+                    "name": "Max notifications",
+                    "numberValue": 6.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "DestroyProgress",
+            "settings": [
+                {
+                    "boolValue": false,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Color",
+                    "type": 2
+                },
+                {
+                    "name": "Opacity",
+                    "numberValue": 0.4000000059604645,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Filled",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "ESP",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Style",
+                    "type": 2
+                },
+                {
+                    "boolValue": true,
+                    "name": "Render Filled",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Render Local",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Show Friends",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "BlockESP",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "name": "Radius",
+                    "numberValue": 20.0,
+                    "type": 1
+                },
+                {
+                    "name": "Chunk Radius",
+                    "numberValue": 4.0,
+                    "type": 1
+                },
+                {
+                    "name": "Update Frequency",
+                    "numberValue": 1.0,
+                    "type": 1
+                },
+                {
+                    "name": "Chunk Updates Per Tick",
+                    "numberValue": 5.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Render Current Chunk",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Render Filled",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Diamond",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Emerald",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Gold",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Iron",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Coal",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Redstone",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Lapis",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Portal",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "MotionBlur",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "name": "Max Frames",
+                    "numberValue": 1.0,
+                    "type": 1
+                },
+                {
+                    "name": "Intensity",
+                    "numberValue": 0.8999999761581421,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "Animations",
+            "settings": [
+                {
+                    "boolValue": false,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Animation",
+                    "type": 2
+                },
+                {
+                    "name": "Swing Time",
+                    "numberValue": 6.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "No Switch Animation",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Flux Swing",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "3rd person",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Custom Swing Angle",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Only on Block",
+                    "type": 0
+                },
+                {
+                    "name": "Swing Angle",
+                    "numberValue": -31.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Small Items",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "NoCameraClip",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "RobloxCamera",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "name": "Radius",
+                    "numberValue": 4.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Scroll",
+                    "type": 0
+                },
+                {
+                    "name": "Scroll Increment",
+                    "numberValue": 1.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "ItemPhysics",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "name": "Speed",
+                    "numberValue": 8.0,
+                    "type": 1
+                },
+                {
+                    "name": "X Multiplier",
+                    "numberValue": 18.0,
+                    "type": 1
+                },
+                {
+                    "name": "Y Multiplier",
+                    "numberValue": 18.0,
+                    "type": 1
+                },
+                {
+                    "name": "Z Multiplier",
+                    "numberValue": 18.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "TargetHUD",
+            "settings": [
+                {
+                    "boolValue": false,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Style",
+                    "type": 2
+                },
+                {
+                    "name": "X Offset",
+                    "numberValue": 100.0,
+                    "type": 1
+                },
+                {
+                    "name": "Y Offset",
+                    "numberValue": 100.0,
+                    "type": 1
+                },
+                {
+                    "name": "Font Size",
+                    "numberValue": 20.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Health Calculation",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "ItemESP",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Distance Limited",
+                    "type": 0
+                },
+                {
+                    "name": "Distance",
+                    "numberValue": 100.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Render Filled",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Themed Color",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Show Names",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Distance Scaled Font",
+                    "type": 0
+                },
+                {
+                    "name": "Font Size",
+                    "numberValue": 20.0,
+                    "type": 1
+                },
+                {
+                    "name": "Scaling Multiplier",
+                    "numberValue": 1.25,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": true,
+            "key": 0,
+            "name": "Nametags",
+            "settings": [
+                {
+                    "boolValue": false,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 0,
+                    "name": "Style",
+                    "type": 2
+                },
+                {
+                    "boolValue": true,
+                    "name": "Show Friends",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Render Local",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Distance Scaled Font",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Show IRC Users",
+                    "type": 0
+                },
+                {
+                    "name": "Font Size",
+                    "numberValue": 20.0,
+                    "type": 1
+                },
+                {
+                    "name": "Scaling Multiplier",
+                    "numberValue": 1.25,
+                    "type": 1
+                },
+                {
+                    "name": "Minimum Scale",
+                    "numberValue": 4.920000076293945,
+                    "type": 1
+                }
+            ]
+        }
+    ],
+    "version": "v1.0.0"
+}
