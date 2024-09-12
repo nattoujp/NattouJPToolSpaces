@@ -73,7 +73,7 @@
                 },
                 {
                     "name": "APS Max",
-                    "numberValue": 11.1899995803833,
+                    "numberValue": 13.899999618530273,
                     "type": 1
                 },
                 {
@@ -110,6 +110,107 @@
                     "boolValue": false,
                     "name": "Strafe",
                     "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Visuals",
+                    "type": 0
+                },
+                {
+                    "name": "Up-Down Speed",
+                    "numberValue": 1.2000000476837158,
+                    "type": 1
+                },
+                {
+                    "name": "Spheres Amount",
+                    "numberValue": 12.0,
+                    "type": 1
+                },
+                {
+                    "name": "Spheres Size multiplier",
+                    "numberValue": 0.20000000298023224,
+                    "type": 1
+                },
+                {
+                    "name": "Spheres Size",
+                    "numberValue": 4.0,
+                    "type": 1
+                },
+                {
+                    "name": "Spheres Min Size",
+                    "numberValue": 2.5999999046325684,
+                    "type": 1
+                },
+                {
+                    "name": "Spheres radius",
+                    "numberValue": 0.8999999761581421,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "TriggerBot",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "name": "APS Min",
+                    "numberValue": 12.0,
+                    "type": 1
+                },
+                {
+                    "name": "APS Max",
+                    "numberValue": 16.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Use Antibot",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Hive",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "AutoClicker",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "name": "CPS",
+                    "numberValue": 16.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "Reach",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "name": "Distance",
+                    "numberValue": 3.0,
+                    "type": 1
                 }
             ]
         },
@@ -518,37 +619,37 @@
             "name": "LongJump",
             "settings": [
                 {
-                    "boolValue": true,
+                    "boolValue": false,
                     "name": "Visible",
                     "type": 0
                 },
                 {
                     "name": "Speed",
-                    "numberValue": 1.0,
+                    "numberValue": 28.19999885559082,
                     "type": 1
                 },
                 {
                     "name": "Height",
-                    "numberValue": 0.41999998688697815,
+                    "numberValue": 7.049999713897705,
                     "type": 1
                 },
                 {
-                    "boolValue": false,
+                    "boolValue": true,
                     "name": "Timer Boost",
                     "type": 0
                 },
                 {
                     "name": "Timer",
-                    "numberValue": 28.299999237060547,
+                    "numberValue": 42.29999923706055,
                     "type": 1
                 },
                 {
-                    "boolValue": true,
+                    "boolValue": false,
                     "name": "Apply Jump Flags",
                     "type": 0
                 },
                 {
-                    "boolValue": false,
+                    "boolValue": true,
                     "name": "Disable Modules",
                     "type": 0
                 }
@@ -573,6 +674,30 @@
                     "name": "Speed",
                     "numberValue": 2.5,
                     "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "ServerSneak",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "AirJump",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
                 }
             ]
         },
@@ -739,12 +864,12 @@
                 },
                 {
                     "name": "Destroy Speed",
-                    "numberValue": 0.7999999523162842,
+                    "numberValue": 0.75,
                     "type": 1
                 },
                 {
                     "name": "Other Destroy Speed",
-                    "numberValue": 0.7999999523162842,
+                    "numberValue": 0.75,
                     "type": 1
                 },
                 {
@@ -763,7 +888,7 @@
                     "type": 0
                 },
                 {
-                    "boolValue": false,
+                    "boolValue": true,
                     "name": "Uncover",
                     "type": 0
                 },
@@ -778,12 +903,12 @@
                     "type": 1
                 },
                 {
-                    "boolValue": false,
+                    "boolValue": true,
                     "name": "Queue Redstone",
                     "type": 0
                 },
                 {
-                    "boolValue": false,
+                    "boolValue": true,
                     "name": "Steal",
                     "type": 0
                 },
@@ -793,7 +918,7 @@
                     "type": 2
                 },
                 {
-                    "boolValue": false,
+                    "boolValue": true,
                     "name": "Always Steal",
                     "type": 0
                 },
@@ -818,7 +943,7 @@
                     "type": 1
                 },
                 {
-                    "boolValue": false,
+                    "boolValue": true,
                     "name": "Anti Confuse",
                     "type": 0
                 },
@@ -834,16 +959,11 @@
                 },
                 {
                     "boolValue": false,
-                    "name": "Block Uncover",
+                    "name": "Multi",
                     "type": 0
                 },
                 {
-                    "name": "Search Range",
-                    "numberValue": 2.0,
-                    "type": 1
-                },
-                {
-                    "boolValue": false,
+                    "boolValue": true,
                     "name": "Anti Cover",
                     "type": 0
                 },
@@ -865,6 +985,11 @@
                 {
                     "boolValue": false,
                     "name": "Test2",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Test3",
                     "type": 0
                 },
                 {
@@ -923,9 +1048,24 @@
                     "type": 0
                 },
                 {
+                    "boolValue": false,
+                    "name": "Nuke Notify",
+                    "type": 0
+                },
+                {
                     "boolValue": true,
                     "name": "Render Block",
                     "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Progress Bar Style",
+                    "type": 2
+                },
+                {
+                    "name": "Offeset From Center",
+                    "numberValue": 20.0,
+                    "type": 1
                 },
                 {
                     "boolValue": false,
@@ -1016,11 +1156,6 @@
                 },
                 {
                     "boolValue": false,
-                    "name": "Flareon V2",
-                    "type": 0
-                },
-                {
-                    "boolValue": false,
                     "name": "Avoid Underplace",
                     "type": 0
                 },
@@ -1051,7 +1186,7 @@
                 },
                 {
                     "boolValue": false,
-                    "name": "Test",
+                    "name": "Diagonal bypass",
                     "type": 0
                 }
             ]
@@ -1273,68 +1408,6 @@
             ]
         },
         {
-            "enabled": false,
-            "key": 0,
-            "name": "AutoKick",
-            "settings": [
-                {
-                    "boolValue": true,
-                    "name": "Visible",
-                    "type": 0
-                },
-                {
-                    "enumValue": 0,
-                    "name": "Mode",
-                    "type": 2
-                },
-                {
-                    "name": "Range",
-                    "numberValue": 5.0,
-                    "type": 1
-                },
-                {
-                    "name": "Delay",
-                    "numberValue": 1000.0,
-                    "type": 1
-                },
-                {
-                    "boolValue": true,
-                    "name": "Hotbar Only",
-                    "type": 0
-                },
-                {
-                    "boolValue": true,
-                    "name": "Allow Diagonal",
-                    "type": 0
-                },
-                {
-                    "boolValue": true,
-                    "name": "OnGround Only",
-                    "type": 0
-                },
-                {
-                    "name": "OnGround Ticks",
-                    "numberValue": 10.0,
-                    "type": 1
-                },
-                {
-                    "name": "Opponent Ping",
-                    "numberValue": 90.0,
-                    "type": 1
-                },
-                {
-                    "boolValue": false,
-                    "name": "Spam Place",
-                    "type": 0
-                },
-                {
-                    "boolValue": false,
-                    "name": "Debug",
-                    "type": 0
-                }
-            ]
-        },
-        {
             "enabled": true,
             "key": 0,
             "name": "AutoTool",
@@ -1470,9 +1543,9 @@
             ]
         },
         {
-            "enabled": false,
+            "enabled": true,
             "key": 0,
-            "name": "TestModule",
+            "name": "Teams",
             "settings": [
                 {
                     "boolValue": true,
@@ -1483,20 +1556,91 @@
                     "enumValue": 0,
                     "name": "Mode",
                     "type": 2
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 9,
+            "name": "HiveFly",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
                 },
                 {
-                    "colorValue": [
-                        1.0,
-                        1.0,
-                        1.0,
-                        1.0
-                    ],
-                    "name": "Color",
-                    "type": 3
+                    "name": "Speed",
+                    "numberValue": 71.0,
+                    "type": 1
                 },
                 {
-                    "name": "Camera Radius",
-                    "numberValue": 4.0,
+                    "name": "Timer",
+                    "numberValue": 2.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "AntiVoid",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "name": "Fall Distance",
+                    "numberValue": 5.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": false,
+                    "name": "Teleport Once",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "TestModule",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "enumValue": 1,
+                    "name": "Mode",
+                    "type": 2
+                },
+                {
+                    "boolValue": false,
+                    "name": "On Ground Only",
+                    "type": 0
+                },
+                {
+                    "name": "Max Distance",
+                    "numberValue": 5.0,
+                    "type": 1
+                },
+                {
+                    "boolValue": true,
+                    "name": "Disable After Clip",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Manually Apply Flags",
+                    "type": 0
+                },
+                {
+                    "name": "Clip Distance",
+                    "numberValue": 0.009999999776482582,
                     "type": 1
                 }
             ]
@@ -1512,9 +1656,14 @@
                     "type": 0
                 },
                 {
-                    "enumValue": 0,
+                    "enumValue": 2,
                     "name": "Sound",
                     "type": 2
+                },
+                {
+                    "name": "Volume",
+                    "numberValue": 1.0,
+                    "type": 1
                 }
             ]
         },
@@ -1566,6 +1715,11 @@
                     "enumValue": 0,
                     "name": "Sound",
                     "type": 2
+                },
+                {
+                    "name": "Volume",
+                    "numberValue": 1.0,
+                    "type": 1
                 }
             ]
         },
@@ -1592,6 +1746,11 @@
                 {
                     "boolValue": true,
                     "name": "Show In Chat",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Queue On Death",
                     "type": 0
                 },
                 {
@@ -1634,6 +1793,11 @@
                 {
                     "boolValue": true,
                     "name": "Name Check",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "PlayerList Check",
                     "type": 0
                 }
             ]
@@ -2031,6 +2195,142 @@
             ]
         },
         {
+            "enabled": false,
+            "key": 0,
+            "name": "AutoLootbox",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "name": "Range",
+                    "numberValue": 5.0,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "AutoDodge",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Balance",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Baroque",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Europa",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Grove",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Ivory",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Lush",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Monastery",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Pillaris",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Pinecone Point",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Turmoil",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Village",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "VioletKeep",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Volcano",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "WildWood",
+                    "type": 0
+                },
+                {
+                    "boolValue": false,
+                    "name": "Wood pine",
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "AutoSnipe",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Queue When Targets Lost",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Queue When No Targets Found",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Queue When Full",
+                    "type": 0
+                },
+                {
+                    "boolValue": true,
+                    "name": "Retry Queue",
+                    "type": 0
+                }
+            ]
+        },
+        {
             "enabled": true,
             "key": 0,
             "name": "Watermark",
@@ -2068,7 +2368,7 @@
                     "type": 0
                 },
                 {
-                    "enumValue": 1,
+                    "enumValue": 0,
                     "name": "Style",
                     "type": 2
                 },
@@ -2127,7 +2427,7 @@
                     "type": 2
                 },
                 {
-                    "enumValue": 2,
+                    "enumValue": 4,
                     "name": "Theme",
                     "type": 2
                 },
@@ -2202,11 +2502,6 @@
                     "type": 3
                 },
                 {
-                    "name": "Color Speed",
-                    "numberValue": 8.0,
-                    "type": 1
-                },
-                {
                     "name": "Saturation",
                     "numberValue": 1.0,
                     "type": 1
@@ -2244,7 +2539,12 @@
                     "type": 1
                 },
                 {
-                    "enumValue": 0,
+                    "name": "Background Value",
+                    "numberValue": 0.5,
+                    "type": 1
+                },
+                {
+                    "enumValue": 3,
                     "name": "Display",
                     "type": 2
                 },
@@ -2254,7 +2554,7 @@
                     "type": 2
                 },
                 {
-                    "boolValue": true,
+                    "boolValue": false,
                     "name": "Render Mode",
                     "type": 0
                 },
@@ -2502,12 +2802,12 @@
                 },
                 {
                     "name": "Max Frames",
-                    "numberValue": 1.0,
+                    "numberValue": 20.0,
                     "type": 1
                 },
                 {
                     "name": "Intensity",
-                    "numberValue": 0.8999999761581421,
+                    "numberValue": 1.0,
                     "type": 1
                 }
             ]
@@ -2778,6 +3078,18 @@
                     "name": "Minimum Scale",
                     "numberValue": 4.920000076293945,
                     "type": 1
+                }
+            ]
+        },
+        {
+            "enabled": false,
+            "key": 0,
+            "name": "NoHurtcam",
+            "settings": [
+                {
+                    "boolValue": true,
+                    "name": "Visible",
+                    "type": 0
                 }
             ]
         }
